@@ -9,22 +9,33 @@
   margin: 0;
   /* 요소 사이의 간격 */
   padding: 0;
-  /* 요소 내부의 간격 */
-  box-sizing: border-box;
   /* 정확한 디자인을 위해 박스 크기를 고정 (테두리, 공간 등이 안쪽으로 적용되도록) */
   outline-style: none;
+  /* 요소 내부의 간격 */
+  box-sizing: border-box;
   /* Tab 눌렀을 때 웹 사이트에서 보이는 아웃라인 스타일 */
+}
+a {
+  text-decoration: none;
+  color: #111;
+}
+ul {
+  list-style: none;
+}
+img {
+  border: 0;
+  vertical-align: middle;
 }
 html {
   font-size: 10px;
 }
 body {
-  font-size: 1.3rem;
   /* rem (html을 기준으로 함, htmlX1 */
   font-family: "Pretendard", sans-serif;
+  font-size: 1.3rem;
   font-weight: 400;
-  color: #000000;
   line-height: 1;
+  color: #000000;
   /* 행간 */
   letter-spacing: -0.64px;
   /* 자간 */
