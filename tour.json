@@ -1,0 +1,84 @@
+{
+  "total": 9,
+
+  "good_1": {
+    "image": "images/t1.jpg",
+    "badge": "강력특가",
+    "option": "룸온니 초특가",
+    "desc": "인터컨티넨탈 알펜시아 평창",
+    "price": 153648,
+    "url": "a.html"
+  },
+
+  "good_2": {
+    "image": "images/t2.jpg",
+    "badge": "최다판매 상품",
+    "option": "롤링힐스 호텔",
+    "desc": "동유럽 3국 9일, 체코/오스트리아/헝가리,대한항공,4성호텔,판도르프아울렛",
+    "price": 640900,
+    "url": "a.html"
+  },
+
+  "good_3": {
+    "image": "images/t3.jpg",
+    "badge": "베스트셀러",
+    "option": "디럭스 킹, 정원뷰",
+    "desc": "이스틴 그랜드 호텔 사톤",
+    "price": 740000,
+    "url": "a.html"
+  },
+
+  "good_4": {
+    "image": "images/t4.jpg",
+    "badge": "항공특가",
+    "option": "특급 호텔",
+    "desc": "북경/만리장성/서커스/이화원/전일정쉐라톤 4일_아시아나항공",
+    "price": 468000,
+    "url": "a.html"
+  },
+
+  "good_5": {
+    "image": "images/t5.jpg",
+    "badge": "강력특가",
+    "option": "갓성비 호텔",
+    "desc": "이비스 홍콩 센트럴 & 셩완",
+    "price": 299000,
+    "url": "a.html"
+  },
+
+  "good_6": {
+    "image": "images/t6.webp",
+    "badge": "나트랑",
+    "option": "공항 15분 거리, 논느억 해변에 위치",
+    "desc": "빈펄 나트랑 베이 리조트 & 빌라",
+    "price": 124966,
+    "url": "a.html"
+  },
+
+  "good_7": {
+    "image": "images/t7.webp",
+    "badge": "타이베이",
+    "option": "시먼역 도보 3분",
+    "desc": "저스트 슬립 시먼딩",
+    "price": 200911,
+    "url": "a.html"
+  },
+
+  "good_8": {
+    "image": "images/t8.png",
+    "badge": "방콕",
+    "option": "수라삭 BTS 스카이트레인역 접근성",
+    "desc": "그랜드 호텔",
+    "price": 134869,
+    "url": "a.html"
+  },
+
+  "good_9": {
+    "image": "images/t9.jpg",
+    "badge": "BEST",
+    "option": "얼리 체크인 or 레이트 체크아웃 포함",
+    "desc": "썬클라우드 호텔",
+    "price": 700000,
+    "url": "a.html"
+  }
+}

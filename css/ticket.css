@@ -1,0 +1,157 @@
+.ticket {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+}
+
+.ticket-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.ticket-header {
+  position: relative;
+}
+
+.ticket-title {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+
+.ticket-txt {
+  position: relative;
+  position: relative;
+  display: block;
+  font-size: 1.8rem;
+  color: #a7a9a7;
+  text-align: center;
+}
+
+.ticket-main {
+  position: relative;
+  padding: 25px 0;
+}
+
+.ticket-category {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.ticket-list {
+  position: relative;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.ticket-list li {
+  position: relative;
+}
+
+.ticket-cate-bt {
+  position: relative;
+  display: block;
+  padding: 0px 20px;
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 42px;
+  color: #111;
+  cursor: pointer;
+  border-radius: 44px;
+}
+
+.ticket-cate-bt-active {
+  border: 1px solid transparent !important;
+  background-color: #333 !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+}
+
+.ticket-slide-wrap {
+  position: relative;
+  height: 520px;
+  margin-top: 23px;
+}
+
+.ticket-slide-item {
+  position: relative;
+  height: 520px;
+  overflow: hidden;
+  border-radius: 13px;
+}
+
+.tour-link {
+  position: relative;
+}
+
+.ticket-img {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  display: block;
+}
+
+.ticket-img img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 13px;
+  object-fit: cover;
+}
+
+.ticket-info {
+  position: relative;
+  height: calc(100% - 400px);
+  padding: 16px 8px;
+}
+
+.tour-good-list {
+  position: relative;
+}
+
+.ticket-good-list li {
+  position: relative;
+}
+
+.ticket-good-info-name {
+  position: relative;
+  display: inline-block;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.ticket-good-info-place {
+  position: relative;
+  display: inline-block;
+  font-size: 1.5rem;
+  color: #666;
+  margin-bottom: 12px;
+}
+
+.ticket-good-info-date {
+  position: relative;
+  display: inline-block;
+  font-size: 1.4rem;
+  color: #999;
+  margin-bottom: 11px;
+}
+
+.ticket-good-info-badge {
+  position: relative;
+  font-size: 1.1rem;
+  color: #4a95ff;
+  border: 1px solid #4a95ff;
+}
+
+.ticket-footer {
+  position: relative;
+}

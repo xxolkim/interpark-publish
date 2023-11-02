@@ -4,6 +4,12 @@
 @import url(layout.css);
 @import url(header.css);
 @import url(visual.css);
+@import url(recommend.css);
+@import url(tour.css);
+@import url(ticket.css);
+@import url(live.css);
+@import url(books.css);
+@import url(event.css);
 @import url(footer.css);
 
 * {
@@ -26,6 +32,9 @@ ul {
 img {
   border: 0;
   vertical-align: middle;
+}
+button {
+  font-family: "Pretendard", sans-serif;
 }
 html {
   font-size: 10px;

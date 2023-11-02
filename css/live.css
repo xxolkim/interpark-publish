@@ -1,0 +1,42 @@
+.live {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+}
+
+.live-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.live-header {
+  position: relative;
+}
+
+.live-title {
+  position: relative;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.live-title img {
+  position: relative;
+  width: 154px;
+  height: 40px;
+}
+
+.live-main {
+  position: relative;
+}
+
+.live-slide-wrap {
+  position: relative;
+  height: 455px;
+  background-color: seagreen;
+  margin-top: 23px;
+}
+
+.live-footer {
+  position: relative;
+}

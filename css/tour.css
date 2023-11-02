@@ -1,0 +1,216 @@
+.tour {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+}
+
+.tour-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.tour-header {
+  position: relative;
+}
+
+.tour-title {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+
+.tour-txt {
+  position: relative;
+  position: relative;
+  display: block;
+  font-size: 1.8rem;
+  color: #a7a9a7;
+  text-align: center;
+}
+
+.tour-main {
+  position: relative;
+  padding: 25px 0;
+}
+
+.tour-category {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.tour-list {
+  position: relative;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.tour-list li {
+  position: relative;
+}
+
+.tour-cate-bt {
+  position: relative;
+  display: block;
+  padding: 0px 20px;
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 42px;
+  color: #111;
+  cursor: pointer;
+  border-radius: 44px;
+}
+
+.tour-cate-bt-active {
+  border: 1px solid transparent !important;
+  background-color: #333 !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+}
+
+.tour-slide-wrap {
+  position: relative;
+  height: 355px;
+  margin-top: 23px;
+}
+
+.tour-slide-item {
+  position: relative;
+  height: 355px;
+  border: 1px solid #e8e8e8;
+  overflow: hidden;
+  border-radius: 13px;
+}
+
+.tour-link {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.tour-img {
+  position: relative;
+  width: 100%;
+  height: 245px;
+  overflow: hidden;
+}
+
+.tour-img img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.tour-info {
+  position: relative;
+  height: calc(100% - 310px);
+  padding: 22px 20px;
+}
+
+.tour-badge {
+  position: absolute;
+  top: -1.8rem;
+  left: 2rem;
+  height: 32px;
+  padding: 0 1.2rem;
+  background-color: #1769ff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 32px;
+  color: #fff;
+  border-radius: 0.4rem;
+}
+
+.tour-good-list {
+  position: relative;
+}
+
+.tour-good-list li {
+  position: relative;
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+}
+
+.tour-good-info {
+  position: relative;
+  overflow: hidden;
+  font-size: 1.5rem;
+  color: #4075ff;
+  white-space: nowrap;
+  word-break: break-all;
+  text-overflow: ellipsis;
+}
+
+.tour-good-info-desc {
+  position: relative;
+  overflow: hidden;
+  font-size: 1.5rem;
+  color: #111;
+  white-space: nowrap;
+  word-break: break-all;
+  text-overflow: ellipsis;
+}
+
+.tour-good-info-price {
+  position: relative;
+  /* 1줄 말줄임 */
+  overflow: hidden;
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #111;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.tour-good-info-price b {
+  position: relative;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #111;
+}
+
+.tour-footer {
+  position: relative;
+  text-align: center;
+}
+
+.tour-footer-cate-bt {
+  position: relative;
+  width: 200px;
+  height: 56px;
+  display: inline-block;
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 54px;
+  color: #111;
+  cursor: pointer;
+  border-radius: 38px;
+}
+
+.tour-footer-cate-bt span {
+  position: relative;
+  padding-right: 15px;
+}
+
+.tour-footer-cate-bt span::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  width: 7px;
+  height: 11px;
+  display: inline-block;
+  background: url(../images/icon_linkArrow.svg) no-repeat center;
+  transform: translateY(-50%);
+}

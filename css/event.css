@@ -1,0 +1,44 @@
+.event {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+}
+
+.event-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.event-header {
+  position: relative;
+}
+
+.event-title {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+
+.event-txt {
+  position: relative;
+  position: relative;
+  display: block;
+  font-size: 1.8rem;
+  color: #a7a9a7;
+  text-align: center;
+}
+
+.event-main {
+  position: relative;
+}
+
+.event-slide-wrap {
+  position: relative;
+  height: 350px;
+  background-color: orange;
+  margin-top: 23px;
+}

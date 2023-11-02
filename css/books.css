@@ -1,0 +1,87 @@
+.books {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+}
+
+.books-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.books-header {
+  position: relative;
+}
+
+.books-title {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+
+.books-txt {
+  position: relative;
+  position: relative;
+  display: block;
+  font-size: 1.8rem;
+  color: #a7a9a7;
+  text-align: center;
+}
+
+.books-main {
+  position: relative;
+  padding: 25px 0;
+}
+
+.books-category {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.books-list {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.books-list li {
+  position: relative;
+}
+
+.books-cate-bt {
+  position: relative;
+  display: block;
+  padding: 0px 20px;
+  line-height: 42px;
+  border: 1px solid #e5e5e5;
+  border-radius: 44px;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 1.4rem;
+  color: #111;
+  font-weight: 400;
+}
+
+.books-cate-bt-active {
+  background-color: #333 !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  border: 1px solid transparent !important;
+}
+
+.books-slide-wrap {
+  position: relative;
+  height: 400px;
+  background-color: skyblue;
+  margin-top: 23px;
+}
+
+.books-footer {
+  position: relative;
+}
